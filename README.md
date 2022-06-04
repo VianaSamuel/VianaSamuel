@@ -15,3 +15,8 @@
 
 # Atividades recentes
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#20](https://github.com/guilyx/guilyx/issues/20) in [guilyx/guilyx](https://github.com/guilyx/guilyx)
+2. 🎉 Merged PR [#16](https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-tiaw-calvicie-grupo-3/pull/16) in [ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-tiaw-calvicie-grupo-3](https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-tiaw-calvicie-grupo-3)
+3. 💪 Opened PR [#16](https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-tiaw-calvicie-grupo-3/pull/16) in [ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-tiaw-calvicie-grupo-3](https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-tiaw-calvicie-grupo-3)
+4. ❗️ Closed issue [#5](https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-tiaw-calvicie-grupo-3/issues/5) in [ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-tiaw-calvicie-grupo-3](https://github.com/ICEI-PUC-Minas-PMGCC-TI/tiaw-pmg-cc-m-20221-tiaw-calvicie-grupo-3)
+<!--END_SECTION:activity-->
