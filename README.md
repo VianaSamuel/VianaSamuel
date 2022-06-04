@@ -1,7 +1,7 @@
 # Estatísticas
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VianaSamuel&theme=tokyonight) ![Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VianaSamuel&theme=tokyonight)
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=5lmidc5vcdasdtbchdeo7t0m8&width=600)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=5lmidc5vcdasdtbchdeo7t0m8&width=800)
 
 # Conexões
 <a href="https://www.linkedin.com/in/samuel-luiz-viana/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="50"></a>
