@@ -1,8 +1,11 @@
 # Estatísticas
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VianaSamuel&theme=tokyonight) ![Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VianaSamuel&theme=tokyonight)
 
-<!--START_SECTION:readme-info-->
-<!--END_SECTION:readme-info-->
+<!--START_SECTION_DAILY_COMMIT:readme-info-->
+<!--END_SECTION_DAILY_COMMIT:readme-info-->
+
+<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
+<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
 
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=5lmidc5vcdasdtbchdeo7t0m8)
 
