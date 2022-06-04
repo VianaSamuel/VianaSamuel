@@ -1,4 +1,4 @@
-<div style="align: center;">
+<div style="align: center">
 # Estatísticas
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VianaSamuel&theme=tokyonight) ![Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VianaSamuel&theme=tokyonight)
 
