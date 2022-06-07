@@ -1,7 +1,4 @@
 <div align="center">
-  
-# Estatísticas:
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=VianaSamuel&theme=tokyonight) ![Langs](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=VianaSamuel&theme=tokyonight)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VianaSamuel&show_icons=true&theme=darcula&hide_border=1&custom_title=Stats%3A&line_height=30px&title_color=20d464&icon_color=20d464)
   
