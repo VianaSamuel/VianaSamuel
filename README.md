@@ -4,6 +4,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VianaSamuel&show_icons=true&theme=darcula&hide_border=1&custom_title=Stats%3A&line_height=30px&title_color=20d464&icon_color=20d464)
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VianaSamuel&theme=darcula&hide_border=1&custom_title=Top%20Languages%20by%20Commit&title_color=20d464&card_width=495&exclude_repo=spotify-box,music-box,productive-box,activity-box)](https://github.com/anuraghazra/github-readme-stats)
+  
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=VianaSamuel&bg_color=191414&color=20d464&line=20d464&hide_border=1)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=5lmidc5vcdasdtbchdeo7t0m8&width=495)
 
