@@ -1,12 +1,12 @@
 <div align="center">
   
 # Estatísticas:
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=VianaSamuel&custom_title=Contribution%20Graph%3A&bg_color=242424&color=20d464&line=20d464&point=137f3b&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=VianaSamuel&bg_color=242424&color=20d464&line=20d464&point=137f3b&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VianaSamuel&theme=darcula&card_width=600line_height=30px&custom_title=Stats%3A&title_color=20d464&icon_color=20d464&show_icons=true&hide_border=true*role=OWNER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VianaSamuel&show_icons=true&theme=darcula&hide_border=1&custom_title=Stats%3A&line_height=30px&title_color=20d464&icon_color=20d464&role=OWNER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VianaSamuel&theme=darcula&card_width=600&custom_title=Top%20Languages%20by%20Commit%3A&title_color=20d464&hide_border=true&exclude_repo=spotify-box,music-box,productive-box,activity-box&role=OWNER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VianaSamuel&theme=darcula&hide_border=1&custom_title=Top%20Languages%20by%20Commit&title_color=20d464&card_width=495&exclude_repo=spotify-box,music-box,productive-box,activity-box&role=OWNER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
+  
 <br><br>
 
 # Linguagens:
@@ -17,6 +17,7 @@
 <a href="https://github.com/VianaSamuelCV/Learning-WebDev"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
 
 <a href="https://github.com/VianaSamuelCV/Learning-C"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/></a> <a href="https://github.com/VianaSamuelCV/Learning-CPP"><img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a> <a href="https://github.com/VianaSamuelCV/Learning-Java-AEDs"><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/></a>
+
 
 <br><br>
 
@@ -30,5 +31,4 @@
   
 # Trivia:
 ![Spotify Recently Played](https://spotify-recently-played-readme.vercel.app/api?user=5lmidc5vcdasdtbchdeo7t0m8&width=495)
-  
 </div>
