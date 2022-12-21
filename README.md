@@ -24,7 +24,7 @@ Clique em uma para abrir o respectivo repositório de estudos.
 ## Estatísticas:
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=VianaSamuel&custom_title=Contribution%27s%20Graph%3A&bg_color=242424&color=20d364&line=20d364&point=188B42&area=true&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
   
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VianaSamuel&theme=darcula&card_width=600line_height=30px&custom_title=Stats%3A&title_color=20d464&icon_color=20d464&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+<!--- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VianaSamuel&theme=darcula&card_width=600line_height=30px&custom_title=Stats%3A&title_color=20d464&icon_color=20d464&show_icons=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats) --->
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VianaSamuel&theme=darcula&card_width=600&custom_title=Top%20Languages%20by%20Commit%3A&title_color=20d464&hide_border=true&exclude_repo=spotify-box,music-box,productive-box,activity-box&role=OWNER,COLLABORATOR)](https://github.com/anuraghazra/github-readme-stats)
   
