@@ -2,7 +2,7 @@
   
 
 ## Linguagens & Skills:
-### Clique em uma para abrir o respectivo repositório de estudos.
+**Clique em uma para abrir o respectivo repositório de estudos.**
 <br>
   
 [Algoritmo e Estrutura de Dados](https://github.com/VianaSamuelCV/Learning-Java-AEDs)
