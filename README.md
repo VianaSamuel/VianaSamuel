@@ -13,11 +13,13 @@
 
 <a href="https://github.com/VianaSamuel/Learning-WebDev"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
 <a href="https://github.com/VianaSamuel/Learning-WebDev"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
-<a href="https://github.com/VianaSamuel/Learning-WebDev"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/></a>
+<a href="https://github.com/VianaSamuel/Learning-WebDev"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</a>
   
 <br><br>
   
 ## Conexões:
+<a href="mailto:samuelcruzviana@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" width="50"></a>
 <a href="https://www.linkedin.com/in/samuel-luiz-viana/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="50"></a>
 <a href="https://www.instagram.com/samuluizzz/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="50"></a>
  
