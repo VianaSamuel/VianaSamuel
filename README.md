@@ -19,7 +19,7 @@
 <br><br>
   
 ## Conexões:
-<a href="mailto:samuelcruzviana@gmail.com"><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" width="50"></a>
+<a href=mailto:samuelcruzviana@gmail.com><img src="https://www.vectorlogo.zone/logos/gmail/gmail-tile.svg" width="50"></a>
 <a href="https://www.linkedin.com/in/samuel-luiz-viana/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="50"></a>
 <a href="https://www.instagram.com/samuluizzz/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="50"></a>
  
