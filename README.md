@@ -5,7 +5,7 @@
 **Clique em uma para abrir o respectivo repositório de estudos.**
 <br>
   
-[Algoritmos e Estruturas de Dados](https://github.com/VianaSamuel/Learning-Java-AEDs)
+[Algoritmos e Estruturas de Dados](https://github.com/VianaSamuel/Learning-Java-AEDs)<br>
 Desenvolvimento Web:
   [Estudos](https://github.com/VianaSamuel/Learning-WebDev/tree/main/Estudos/)
   [Projetos de Faculdade](https://github.com/VianaSamuel/Learning-WebDev/tree/main/Projetos/Faculdade/)
