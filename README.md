@@ -6,10 +6,10 @@
 <br>
   
 [Algoritmos e Estruturas de Dados](https://github.com/VianaSamuel/Learning-Java-AEDs)<br>
-Desenvolvimento Web:
-  [Estudos](https://github.com/VianaSamuel/Learning-WebDev/tree/main/Estudos/)
-  [Projetos de Faculdade](https://github.com/VianaSamuel/Learning-WebDev/tree/main/Projetos/Faculdade/)
-  [Projetos Solo](https://github.com/VianaSamuel/Learning-WebDev/tree/main/Projetos/Solo/)
+Desenvolvimento Web:<br>
+  [Estudos](https://github.com/VianaSamuel/Learning-WebDev/tree/main/Estudos/)<br>
+  [Projetos de Faculdade](https://github.com/VianaSamuel/Learning-WebDev/tree/main/Projetos/Faculdade/)<br>
+  [Projetos Solo](https://github.com/VianaSamuel/Learning-WebDev/tree/main/Projetos/Solo/)<br>
 <br>
 
 <a href="https://github.com/VianaSamuel/Learning-C"><img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white/"></a>
