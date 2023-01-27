@@ -6,13 +6,9 @@
 <br>
   
 [Algoritmos e Estruturas de Dados](https://github.com/VianaSamuel/Learning-Java-AEDs)
-
 Desenvolvimento Web:
-  
   [Estudos](https://github.com/VianaSamuel/Learning-WebDev/tree/main/Estudos/)
-  
   [Projetos de Faculdade](https://github.com/VianaSamuel/Learning-WebDev/tree/main/Projetos/Faculdade/)
-  
   [Projetos Solo](https://github.com/VianaSamuel/Learning-WebDev/tree/main/Projetos/Solo/)
 <br>
 
