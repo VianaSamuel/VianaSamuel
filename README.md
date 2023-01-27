@@ -32,6 +32,4 @@
 
 [![Top Langs](https://github-readme-stats-vianasamuel.vercel.app/api/top-langs/?username=VianaSamuel&exclude_repo=activity-box,music-box,productive-box,spotify-box,github-readme-stats&theme=darcula&card_width=600&custom_title=Top%20Languages%3A&title_color=20d464&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=5lmidc5vcdasdtbchdeo7t0m8&width=600">
-
 </div>
