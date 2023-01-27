@@ -21,7 +21,6 @@
 <a href="https://www.linkedin.com/in/samuel-luiz-viana/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="50"></a>
 <a href="https://www.instagram.com/samuluizzz/"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="50"></a>
 <a href="https://www.sptfy.com/samuluizzz/"><img src="https://www.vectorlogo.zone/logos/spotify/spotify-tile.svg" width="50"></a>
-<a href="https://steamcommunity.com/id/panenosistema"><img src="https://www.vectorlogo.zone/logos/steampowered/steampowered-tile.svg" width="50"></a>
  
 <br><br>
   
