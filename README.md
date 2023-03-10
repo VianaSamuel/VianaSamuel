@@ -34,7 +34,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg" alt="C" width="40" height="40"/></a>  
   <a href="https://learn.microsoft.com/en-us/cpp/cpp/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="CPP" width="40" height="40"/></a>  
-
+  <br>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5" width="40" height="40"/></a>  
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
