@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1ed760&height=120&text=Hello%2C%20World%21&fontSize=30&fontColor=edeef6&&stroke=000000&animation=twinkling&fontAlignY=30&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1ed760&height=120&text=Hello%2C%20World%21&fontSize=30&fontColor=edeef6&animation=twinkling&fontAlignY=30&section=header"/>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/samuel-luiz-viana/" target="_blank" alt="LinkedIn">
