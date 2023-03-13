@@ -32,7 +32,6 @@
 - [Algoritmos e Estruturas de Dados](https://github.com/VianaSamuel/Learning-Java-AEDs)<br>
 - [C,](https://github.com/VianaSamuel/Learning-C) [C++,](https://github.com/VianaSamuel/Learning-CPP) [Java](https://github.com/VianaSamuel/Learning-Java-AEDs)
 
-<br>
 
 <h3 align="left">Linguagens:</h3>
 <p align="left"> 
@@ -49,7 +48,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" width="40" height="40"/></a>  
 </p>
 
-<br>
 
 <h3 align="left">Frameworks:</h3>
 <p align="left">
@@ -57,7 +55,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/></a>  
 </p>
 
-<br>
 
 <h3 align="left">Estudando atualmente:</h3>
 <p align="left">
