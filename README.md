@@ -26,6 +26,14 @@
 <h1></h1>
 <h1>💻 Knowledge</h1>
 
+<h3 align="left">Estudos:</h3>
+
+- Desenvolvimento Web [(site)](https://learning-web-dev.vercel.app/) [(repositório)](https://github.com/VianaSamuel/Learning-WebDev)<br>
+- [Algoritmos e Estruturas de Dados](https://github.com/VianaSamuel/Learning-Java-AEDs)<br>
+- [C,](https://github.com/VianaSamuel/Learning-C) [C++,](https://github.com/VianaSamuel/Learning-CPP) [Java](https://github.com/VianaSamuel/Learning-Java-AEDs)
+
+<br>
+
 <h3 align="left">Linguagens:</h3>
 <p align="left"> 
   <a href="https://docs.oracle.com/en/java/" target="_blank">
@@ -41,17 +49,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" alt="CSS3" width="40" height="40"/></a>  
 </p>
 
+<br>
+
 <h3 align="left">Frameworks:</h3>
 <p align="left">
   <a href="https://getbootstrap.com" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/></a>  
 </p>
 
-<h3 align="left">Estudos:</h3>
+<br>
 
-- Desenvolvimento Web [(site)](https://learning-web-dev.vercel.app/) [(repositório)](https://github.com/VianaSamuel/Learning-WebDev)<br>
-- [Algoritmos e Estruturas de Dados](https://github.com/VianaSamuel/Learning-Java-AEDs)<br>
-- [C,](https://github.com/VianaSamuel/Learning-C) [C++,](https://github.com/VianaSamuel/Learning-CPP) [Java](https://github.com/VianaSamuel/Learning-Java-AEDs)
+<h3 align="left">Estudando atualmente:</h3>
+<p align="left">
+  <a href="https://sass-lang.com/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/></a>  
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" width="40" height="40"/></a>  
+  <a href="https://reactjs.org/" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/></a>  
+</p>
 
 <h1> </h1>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1ed760&height=120&section=footer"/>
