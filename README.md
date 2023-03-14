@@ -56,7 +56,7 @@
 </p>
 
 
-<h3 align="left">Estudando atualmente:</h3>
+<h3 align="left">Estudando:</h3>
 <p align="left">
   <a href="https://sass-lang.com/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/></a>  
