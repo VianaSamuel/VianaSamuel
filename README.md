@@ -10,8 +10,6 @@
   <img src= "https://img.shields.io/badge/-Instagram-191414?style=for-the-badge&amp;logo=Instagram&amp;logoColor=1ed760&amp;link=https://www.instagram.com/samuluizzz"></a>
   <a href="https://sptfy.com/samuluizzz" target="_blank" alt="Spotify">
   <img src= "https://img.shields.io/badge/-Spotify-191414?style=for-the-badge&amp;logo=Spotify&amp;logoColor=1ed760&amp;link=https://sptfy.com/samuluizzz"></a>
-  <a href="https://steamcommunity.com/id/panenosistema" target="_blank" alt="Steam">
-  <img src= "https://img.shields.io/badge/-Steam-191414?style=for-the-badge&amp;logo=Steam&amp;logoColor=1ed760&amp;link=https://steamcommunity.com/id/panenosistema"></a>
 </div>
 
 <br>
