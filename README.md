@@ -6,10 +6,6 @@
   <a href="mailto:samuelcruzviana@gmail.com" target="_blank" alt="Gmail">
   <img src= "https://img.shields.io/badge/-Gmail-191414?style=for-the-badge&amp;logo=Gmail&amp;logoColor=1ed760&amp;link=mailto:samuelcruzviana@gmail.com"></a>
   <br>
-  <a href="https://www.instagram.com/samuluizzz" target="_blank" alt="Instagram">
-  <img src= "https://img.shields.io/badge/-Instagram-191414?style=for-the-badge&amp;logo=Instagram&amp;logoColor=1ed760&amp;link=https://www.instagram.com/samuluizzz"></a>
-  <a href="https://sptfy.com/samuluizzz" target="_blank" alt="Spotify">
-  <img src= "https://img.shields.io/badge/-Spotify-191414?style=for-the-badge&amp;logo=Spotify&amp;logoColor=1ed760&amp;link=https://sptfy.com/samuluizzz"></a>
 </div>
 
 <br>
