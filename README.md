@@ -15,7 +15,7 @@
   <img width="48%" height="195px" src="https://github-readme-stats-vianasamuel.vercel.app/api/top-langs/?username=VianaSamuel&theme=darcula&custom_title=Most%20Used%20Languages%3A&bg_color=0d1117&title_color=1ed760&hide_border=true&layout=compact"/>
 </div>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=VianaSamuel&custom_title=%20&bg_color=0d1117&color=1ed760&line=1ed760&point=1db954&area=true&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=VianaSamuel&custom_title=%20&bg_color=0d1117&color=1ed760&line=1ed760&point=1db954&area=true&hide_border=true&radius=8)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h1></h1>
 <h1>💻 Knowledge</h1>
