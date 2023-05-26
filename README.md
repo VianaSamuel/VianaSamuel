@@ -11,7 +11,7 @@
 <br>
 
 <h1></h1>
-<details><summary><h1>💻 Stack</h1></summary>
+<details><summary><h2>💻 Stack</h2></summary>
   <h3 align="left">Back-end:</h3>
   <p align="left"> 
     <a href="https://docs.oracle.com/en/java/" target="_blank">
@@ -51,10 +51,11 @@
 </details>
 
 <h1></h1>
-<details><summary><h1>🔨 Projetos</h1></summary>
+<details><summary><h2>🔨 Projetos</h2></summary>
   <h3 align="left">Práticos:</h3>
 
   - [Desenvolvimento Web](https://learning-web-dev.vercel.app/)
+  - [HackaTruck MakerSpace](https://github.com/VianaSamuel/Learning-Swift)
   
   <h3 align="left">Didáticos:</h3>
 
@@ -62,7 +63,7 @@
 </details>
 
 <h1></h1>
-<details><summary><h1>📝 Estudos & Learning's</h1></summary>
+<details><summary><h2>📝 Estudos & Learning's</h2></summary>
   <h3 align="left">Estudos:</h3>
 
   - [Algoritmos e Estruturas de Dados](https://github.com/VianaSamuel/Learning-Java-AEDs)<br>
@@ -73,10 +74,11 @@
   - [C++](https://github.com/VianaSamuel/Learning-CPP)<br>
   - [Java](https://github.com/VianaSamuel/Learning-Java-AEDs)
   - [JavaScript](https://github.com/VianaSamuel/Learning-JavaScript)
+  - [Swift](https://github.com/VianaSamuel/Learning-Swift)
 </details>
 
 <h1></h1>
-<details><summary><h1>📊 Estatísticas</h1></summary>
+<details><summary><h2>📊 Estatísticas</h2></summary>
   <div align="center">  
     <img width="50%" height="195px" src="https://github-readme-stats-vianasamuel.vercel.app/api?username=VianaSamuel&theme=darcula&line_height=30px&custom_title=Stats%3A&bg_color=0d1117&title_color=1ed760&icon_color=1ed760&show_icons=true&hide_border=true&count_private=true"/> 
     <img width="48%" height="195px" src="https://github-readme-stats-vianasamuel.vercel.app/api/top-langs/?username=VianaSamuel&theme=darcula&custom_title=Most%20Used%20Languages%3A&bg_color=0d1117&title_color=1ed760&hide_border=true&layout=compact"/>
