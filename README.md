@@ -54,18 +54,19 @@
 <details><summary><h2>🔨 Projetos</h2></summary>
   <h3 align="left">Práticos:</h3>
 
-  - [Desenvolvimento Web](https://learning-web-dev.vercel.app/)
+  - [Desenvolvimento Web](https://learning-web-dev.vercel.app/) (site)
   - [HackaTruck MakerSpace](https://github.com/VianaSamuel/Learning-Swift)
   
   <h3 align="left">Didáticos:</h3>
 
-  - [Ativar 2FA do GitHub (iOS)](https://github.com/VianaSamuel/github2FA-iphone)
+  - [Como ativar o 2FA do GitHub (iOS)](https://github.com/VianaSamuel/github2FA-iphone)
 </details>
 
 <h1></h1>
 <details><summary><h2>📝 Estudos & Learning's</h2></summary>
   <h3 align="left">Estudos:</h3>
 
+  - [Desenvolvimento Web](https://github.com/VianaSamuel/Learning-WebDev) (repositório)<br>
   - [Algoritmos e Estruturas de Dados](https://github.com/VianaSamuel/Learning-Java-AEDs)<br>
 
   <h3 align="left">Learning's:</h3>
