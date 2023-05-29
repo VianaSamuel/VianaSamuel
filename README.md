@@ -12,7 +12,7 @@
 
 <h1></h1>
 <details><summary><h2>💻 Stack</h2></summary>
-  <h4 align="left">Back-end:</h4>
+  <h3 align="left">Back-end:</h3>
   <p align="left"> 
     <a href="https://docs.oracle.com/en/java/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="Java" width="40" height="40"/></a>  
@@ -22,7 +22,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="CPP" width="40" height="40"/></a>  
   </p>
 
-  <h4 align="left">Front-end:</h4>
+  <h3 align="left">Front-end:</h3>
   <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5" width="40" height="40"/></a>  
@@ -35,13 +35,13 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/></a>  
   </p>
 
-  <h4 align="left">Mobile:</h4>
+  <h3 align="left">Mobile:</h3>
   <p align="left">
     <a href="https://www.apple.com/br/swift/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/></a>  
   </p>
 
-  <h4 align="left">Estudando:</h4>
+  <h3 align="left">Estudando:</h3>
   <p align="left">
     <a href="https://sass-lang.com/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" alt="Sass" width="40" height="40"/></a>  
@@ -52,23 +52,23 @@
 
 <h1></h1>
 <details><summary><h2>🔨 Projetos</h2></summary>
-  <h4 align="left">Práticos:</h4>
+  <h3 align="left">Práticos:</h3>
 
   - [Desenvolvimento Web](https://learning-web-dev.vercel.app/)
   - [HackaTruck MakerSpace](https://github.com/VianaSamuel/Learning-Swift)
   
-  <h4 align="left">Didáticos:</h4>
+  <h3 align="left">Didáticos:</h3>
 
   - [Ativar 2FA do GitHub (iOS)](https://github.com/VianaSamuel/github2FA-iphone)
 </details>
 
 <h1></h1>
 <details><summary><h2>📝 Estudos & Learning's</h2></summary>
-  <h4 align="left">Estudos:</h4>
+  <h3 align="left">Estudos:</h3>
 
   - [Algoritmos e Estruturas de Dados](https://github.com/VianaSamuel/Learning-Java-AEDs)<br>
 
-  <h4 align="left">Learning's:</h4>
+  <h3 align="left">Learning's:</h3>
 
   - [C](https://github.com/VianaSamuel/Learning-C)<br>
   - [C++](https://github.com/VianaSamuel/Learning-CPP)<br>
