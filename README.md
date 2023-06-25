@@ -54,8 +54,9 @@
 <details><summary><h2>🔨 Projetos</h2></summary>
   <h3 align="left">Práticos:</h3>
 
-  - [Desenvolvimento Web](https://learning-web-dev.vercel.app/) (site)
-  - [HackaTruck MakerSpace](https://github.com/VianaSamuel/Learning-Swift)
+  - [Desenvolvimento Web](https://learning-web-dev.vercel.app/) - Portfólio com meus projetos de Web Development.
+  - [HackaTruck MakerSpace](https://github.com/VianaSamuel/Learning-Swift) - Projetos realizados durante o evento patrocinado pela IBM Brasil.
+  - [Terminal.JS](https://github.com/VianaSamuel/JS-Terminal) - Terminal com funções básicas feito em JavaScript e NodeJS.
   
   <h3 align="left">Didáticos:</h3>
 
