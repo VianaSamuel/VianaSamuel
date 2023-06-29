@@ -12,7 +12,7 @@
 
 <h1></h1>
 <details><summary><h2>💻 Stack</h2></summary>
-  <p align="left">Back-end:</p>
+  <h3 align="left">Back-end:</h3>
   <p align="left"> 
     <a href="https://docs.oracle.com/en/java/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg" alt="Java" width="30" height="30"/></a>  
@@ -22,7 +22,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" alt="CPP" width="30" height="30"/></a>  
   </p>
 
-  <p align="left">Front-end:</p>
+  <h3 align="left">Front-end:</h3>
   <p align="left">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" alt="HTML5" width="30" height="30"/></a>  
@@ -35,13 +35,13 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="30" height="30"/></a>  
   </p>
 
-  <p align="left">Mobile:</p>
+  <h3 align="left">Mobile:</h3>
   <p align="left">
     <a href="https://www.apple.com/br/swift/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="30" height="30"/></a>  
   </p>
 
-  <p align="left">Estudando:</p>
+  <h3 align="left">Estudando:</h3>
   <p align="left">
     <a href="https://www.python.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="30" height="30"/></a>  
