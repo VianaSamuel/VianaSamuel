@@ -1,7 +1,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1ed760&height=120&fontSize=30&fontColor=edeef6&animation=twinkling&fontAlignY=30&section=header"/>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/samuel-luiz-viana/" target="_blank" alt="LinkedIn">
+  <a href="https://www.linkedin.com/in/viana-samuel/" target="_blank" alt="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-191414?style=for-the-badge&amp;logo=Linkedin&amp;logoColor=1ed760&amp;link=https://www.linkedin.com/in/samuel-luiz-viana/"></a>
   <a href="mailto:samuelcruzviana@gmail.com" target="_blank" alt="Gmail">
   <img src= "https://img.shields.io/badge/-Gmail-191414?style=for-the-badge&amp;logo=Gmail&amp;logoColor=1ed760&amp;link=mailto:samuelcruzviana@gmail.com"></a>
