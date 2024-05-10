@@ -32,7 +32,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript" width="30" height="30"/></a> 
     <br>
     <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="30" height="30"/></a>  
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="30" height="30"/></a>  
   </p>
 
   <h3 align="left">Mobile:</h3>
@@ -58,8 +58,8 @@
 <details><summary><h2>🔨 Projetos</h2></summary>
   <h3 align="left">Práticos:</h3>
 
-  - [Desenvolvimento Web](https://learning-web-dev.vercel.app/) - Portfólio com meus projetos de Web Development.
   - [HackaTruck MakerSpace](https://github.com/VianaSamuel/Learning-Swift) - Projetos realizados durante o evento patrocinado pela IBM Brasil.
+  - [Desenvolvimento Web](https://learning-web-dev.vercel.app/) - Portfólio com meus projetos de Web Development.
   - [JS-Terminal](https://github.com/VianaSamuel/JS-Terminal) - Terminal com funções básicas feito em JavaScript e NodeJS.
   
   <h3 align="left">Didáticos:</h3>
@@ -71,16 +71,16 @@
 <details><summary><h2>📝 Estudos & Learning's</h2></summary>
   <h3 align="left">Estudos:</h3>
 
-  - [Desenvolvimento Web](https://github.com/VianaSamuel/Learning-WebDev) (repositório)<br>
   - [Algoritmos e Estruturas de Dados](https://github.com/VianaSamuel/Learning-Java-AEDs)<br>
+  - [Desenvolvimento Web](https://github.com/VianaSamuel/Learning-WebDev) (repositório)<br>
 
   <h3 align="left">Learning's:</h3>
 
-  - [C](https://github.com/VianaSamuel/Learning-C)<br>
-  - [C++](https://github.com/VianaSamuel/Learning-CPP)<br>
   - [Java](https://github.com/VianaSamuel/Learning-Java-AEDs)
-  - [JavaScript](https://github.com/VianaSamuel/Learning-JavaScript)
   - [Swift](https://github.com/VianaSamuel/Learning-Swift)
+  - [JavaScript](https://github.com/VianaSamuel/Learning-JavaScript)
+  - [C++](https://github.com/VianaSamuel/Learning-CPP)<br>
+  - [C](https://github.com/VianaSamuel/Learning-C)<br>
 </details>
 
 <h1></h1>
